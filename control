@@ -1,0 +1,9 @@
+Package: com.m4fn3.k2gehooker
+Name: k2gehooker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: mafu
+Author: mafu
+Section: Tweaks
+Depends: 
