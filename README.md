@@ -7,6 +7,7 @@ Full examples are available in the `Tweak.xm`!
 # Notes
 - works on both jailbroken and non-jailbroken (sideloadable)
 - limited to 6 hooks at the same time
+- Developer mode needs to be enabled
 - be sure to consider other options for jailed devices
     - if the target function has a symbol, just use `fishhook`.
     - if you want to hook more than 6, you need to use another approach (statically implant trampolines)
